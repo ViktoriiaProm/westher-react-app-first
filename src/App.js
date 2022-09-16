@@ -7,8 +7,7 @@ export default function App() {
     <div className='App'>
       <h1>Weather App</h1>
       <footer>
-        This project was created by
-        {" "}
+        This project was created by{" "}
         <a href='https://melodious-narwhal-23c1bb.netlify.app/' target='_blank'>
           Viktoriia Prominska
         </a>{" "}
