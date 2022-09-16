@@ -5,9 +5,11 @@ import "./App.css";
 export default function App() {
   return (
     <div className='App'>
+      <div className="container">
       <h1>Weather App</h1>
       <footer>
-        This project was created by{" "}
+        This project was created by
+        {" "}
         <a href='https://melodious-narwhal-23c1bb.netlify.app/' target='_blank'>
           Viktoriia Prominska
         </a>{" "}
@@ -18,6 +20,7 @@ export default function App() {
           open-source on GitHub
         </a>
       </footer>
+    </div>
     </div>
   );
 }
