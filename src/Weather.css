@@ -29,6 +29,7 @@
     width: 64px;
     float: left;
     margin-right: 10px;
+    
 }
 
 .Weather li {
@@ -52,6 +53,6 @@
     font-weight: 400;
     position: relative;
     top: -34px;
-    margin-left: 5px;
+    margin-left: 0px;
     line-height: 1;
 }
