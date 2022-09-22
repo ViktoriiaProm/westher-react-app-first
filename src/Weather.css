@@ -1,9 +1,11 @@
 .Weather {
-    border: 1px solid #dadde1;
+
     font-family: arial, sans-serif;
     color: rgb(135, 135, 135);
     padding: 16px;
     border-radius: 4px;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 
 }
 
@@ -46,7 +48,7 @@
     font-weight: 400;
     line-height: 64px;
     position: relative;
-    top:-2px;
+    top: -2px;
 }
 
 .Weather .unit {
@@ -57,8 +59,9 @@
     top: -40px;
     margin-left: 0px;
     line-height: 1;
-    
+
 }
-a{
+
+a {
     text-decoration: none !important;
 }
