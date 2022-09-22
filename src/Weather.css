@@ -24,12 +24,12 @@
     padding: 0;
 }
 
-.Weather img {
-    height: 64px;
-    width: 64px;
+.Weather canvas {
+    height: 60px;
+    width: 60px;
     float: left;
     margin-right: 10px;
-    
+
 }
 
 .Weather li {
@@ -45,6 +45,8 @@
     font-size: 64px;
     font-weight: 400;
     line-height: 64px;
+    position: relative;
+    top:-2px;
 }
 
 .Weather .unit {
@@ -52,7 +54,11 @@
     color: rgb(33, 33, 33);
     font-weight: 400;
     position: relative;
-    top: -34px;
+    top: -40px;
     margin-left: 0px;
     line-height: 1;
+    
+}
+a{
+    text-decoration: none !important;
 }
