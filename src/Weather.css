@@ -6,8 +6,6 @@
     border-radius: 4px;
     background: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-
-
 }
 
 .Weather form {
@@ -28,7 +26,6 @@
 }
 
 .Weather canvas {
-
     margin-right: 5px;
 
 }
